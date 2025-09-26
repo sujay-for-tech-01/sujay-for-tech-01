@@ -25,7 +25,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujay-for-tech-01&show_icons=true&locale=en&layout=compact" alt="sujay-for-tech-01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujay-for-tech-01&show_icons=true&locale=en" alt="sujay-for-tech-01" /></p>
-
-![snake gif](https://github.com/sujay-for-tech-01/sujay-for-tech-01/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/sujay-for-tech-01/sujay-for-tech-01/blob/output/github-snake-dark.svg)
+</div>
 
 
