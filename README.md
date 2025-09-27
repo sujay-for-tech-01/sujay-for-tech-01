@@ -10,9 +10,7 @@
 
 - 💬 Ask me about **Python , Web-development , gaming**
 
-- 📫 How to reach me **sujaypaul0610@gmail.com**
-
-- ⚡ Fun fact **I think I'm little funny.**
+- 📫 You can contact me with this **sujaypaul0610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
